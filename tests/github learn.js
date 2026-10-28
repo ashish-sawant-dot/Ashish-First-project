@@ -6,3 +6,6 @@ console.log(c);
 
 let d=10;
 console.log(d);
+
+let e =5;
+console.log(e);
