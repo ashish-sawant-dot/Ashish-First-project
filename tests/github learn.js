@@ -9,3 +9,6 @@ console.log(d);
 
 let e =5;
 console.log(e);
+
+let p = 7;
+console.log(p);
